@@ -1,7 +1,8 @@
 import React from 'react';
 import LayoutLeft from './Layout-left/LayoutLeft';
 import LayoutRight from './Layout-right/LayoutRight';
-import ShenzhennaviImg from '../../img/深センNAVI_トップ.png' ;
+import Shenzhennavimg from '../../img/fox-5042210_640.jpg' ;
+import Pokemon from '../../img/fox-5042210_640.jpg' ;
 import './works.css';
 
 
@@ -11,7 +12,7 @@ const Navi = (props) =>{
         <h1 style={{textAlign:"center"}}>{props.title}</h1>
         <div className='grid-list'>
         <LayoutLeft 
-        picture={ShenzhennaviImg} 
+        picture={Shenzhennavimg} 
         link="http//com"
         language="PHP"
         skill="github"
