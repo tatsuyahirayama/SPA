@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1859fb2dec3cabe5ebfe0a6e984d66f",
+    "revision": "ffba552c7de6142efe49bad399df5df4",
     "url": "/tatsuya-works/index.html"
   },
   {
-    "revision": "e8860949e1bb6a9999f3",
+    "revision": "9cbbcc9c750f8504d02d",
     "url": "/tatsuya-works/static/css/main.001fca0a.chunk.css"
   },
   {
-    "revision": "ba794af25a6b3d0cc8f9",
-    "url": "/tatsuya-works/static/js/2.f6e511aa.chunk.js"
+    "revision": "c84d165ab06cf1817a09",
+    "url": "/tatsuya-works/static/js/2.b954714e.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/tatsuya-works/static/js/2.f6e511aa.chunk.js.LICENSE.txt"
+    "url": "/tatsuya-works/static/js/2.b954714e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8860949e1bb6a9999f3",
-    "url": "/tatsuya-works/static/js/main.7ac4779c.chunk.js"
+    "revision": "9cbbcc9c750f8504d02d",
+    "url": "/tatsuya-works/static/js/main.7f89d5e9.chunk.js"
   },
   {
     "revision": "697d708a884fcb1a7dad",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "23c9737cd73da2582fa576999df637bd",
     "url": "/tatsuya-works/static/media/ポートフォリオ_トップ.23c9737c.png"
+  },
+  {
+    "revision": "ffecb008b7bdbe3644cf9e4860b9a431",
+    "url": "/tatsuya-works/static/media/深センNAVI_トップ.ffecb008.png"
   },
   {
     "revision": "ffecb008b7bdbe3644cf9e4860b9a431",
