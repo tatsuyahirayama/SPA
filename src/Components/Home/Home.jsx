@@ -4,6 +4,7 @@ import './Home.css';
 import { Link } from "react-router-dom";
 import ShenzhennaviImg from '../../img/深センNAVI_トップ.png'; 
 import PortfolioImg from '../../img/ポートフォリオ_トップ.png';
+import SampleImg from '../../img/fox-5042210_640.jpg';
 
 
 const Home = () =>{
@@ -38,7 +39,7 @@ const Home = () =>{
                 <MediaCard 
                 text="制作物紹介サイト（当サイト）"
                 comment="現在閲覧頂いているサイトです。Reactを用いてSPAサイトにしました。"
-                img={PortfolioImg}
+                img={SampleImg}
                 />
                 </Link>
                 </div>
