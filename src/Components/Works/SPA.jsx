@@ -7,15 +7,14 @@ import './works.css';
 
 const SPA = (props) =>{
     return(
-    <div>
+    <div className='container-introduction'>
         <h1 style={{textAlign:"center"}}>{props.title}</h1>
         <div className='grid-list'>
         <LayoutLeft 
         picture={Pokemon} 
-        title="使用言語"
-        laguage="React"
-        skill="github"
         link="http//com"
+        language="React"
+        skill="github"
         />
         <LayoutRight
         summary="中国赴任者のためのマッチングツール"

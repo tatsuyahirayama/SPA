@@ -55,6 +55,11 @@ class Header extends Component {
               <ListItemText primary="HOME" />
             </ListItem>
           </Link>
+          <Link to="/work-portfolio" class="list-style">
+            <ListItem button>
+              <ListItemText primary="Portfolio" />
+            </ListItem>
+          </Link>
           <Link to="/work-guide" class="list-style">
             <ListItem button>
               <ListItemText primary="深センNAVI" />
@@ -63,11 +68,6 @@ class Header extends Component {
           <Link to="/work-spa" class="list-style">
             <ListItem button>
               <ListItemText primary="制作物紹介サイト(SPA)" />
-            </ListItem>
-          </Link>
-          <Link to="/work-portfolio" class="list-style">
-            <ListItem button>
-              <ListItemText primary="Portfolio" />
             </ListItem>
           </Link>
         </List>
@@ -100,13 +100,13 @@ class Header extends Component {
                 </li>
                 <li>
                   <strong className="margin">
+                    <Link to="/work-portfolio" style={{ boxShadow: 'none', textDecoration: 'none', color: 'inherit',fontFamily: 'Montserrat, sans-serif', }}>Portfolio</Link>
+                  </strong>
+                  <strong className="margin">
                     <Link to="/work-guide" style={{ boxShadow: 'none', textDecoration: 'none', color: 'inherit',fontFamily: 'Montserrat, sans-serif', }}>深センNAVI</Link>
                   </strong>
                   <strong className="margin">
                     <Link to="/work-spa" style={{ boxShadow: 'none', textDecoration: 'none', color: 'inherit',fontFamily: 'Montserrat, sans-serif', }}>制作物紹介サイト(SPA)</Link>
-                  </strong>
-                  <strong className="margin">
-                    <Link to="/work-portfolio" style={{ boxShadow: 'none', textDecoration: 'none', color: 'inherit',fontFamily: 'Montserrat, sans-serif', }}>Portfolio</Link>
                   </strong>
                 </li>
               </ul>
