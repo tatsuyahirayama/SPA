@@ -3,7 +3,7 @@ import MediaCard from '../Card/card';
 import './Home.css';
 import { Link } from "react-router-dom";
 import ShenzhennaviImg from '../../img/深センNAVI_トップ.png'; 
-import PortfolioImg from '../../img/Portfolio_トップ.png';
+import PortfolioImg from '../../img/ポートフォリオ_トップ.png';
 
 
 const Home = () =>{
