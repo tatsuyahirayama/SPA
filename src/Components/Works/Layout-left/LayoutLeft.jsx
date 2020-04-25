@@ -1,6 +1,6 @@
 import React from 'react';
 import Picture from '../Picture/Picture'
-import Pokemon from '../../../img/Portfolio_トップ.png' 
+import PortfolioImg from '../../../img/Portfolio_トップ.png' 
 import '../works.css'
 
 const LayoutLeft = (props) =>{

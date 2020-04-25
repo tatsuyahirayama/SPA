@@ -50,7 +50,7 @@ class Header extends Component {
     const sideList = (
       <div className={classes.list} >
         <List>
-          <Link to="/" class="list-style">
+          <Link to="/tatsuya-works" class="list-style">
             <ListItem button>
               <ListItemText primary="HOME" />
             </ListItem>
@@ -95,7 +95,7 @@ class Header extends Component {
               <ul className="header-list responsive-display">
                 <li className="work-home">
                   <strong >
-                    <Link to="/" style={{ boxShadow: 'none', textDecoration: 'none', color: 'inherit', fontFamily: 'Montserrat, sans-serif', }}>HOME</Link>
+                    <Link to="/tatsuya-works" style={{ boxShadow: 'none', textDecoration: 'none', color: 'inherit', fontFamily: 'Montserrat, sans-serif', }}>HOME</Link>
                   </strong>
                 </li>
                 <li>

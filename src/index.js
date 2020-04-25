@@ -11,7 +11,7 @@ import Portfolio from './Components/Works/Portfolio';
 ReactDOM.render(
     <BrowserRouter>
     <Header />
-    <Route path="/" exact component = {Home}/>
+    <Route path="/tatsuya-works/" exact component = {Home}/>
     <Route path="/work-guide/" render={()=> <Navi title="深センNAVI" />}/>
     <Route path="/work-spa/" render={()=> <SPA title="成果物紹介サイト(SPA)" />}/>
     <Route path="/work-portfolio/" render={()=> <Portfolio title="Portfolio" />}/>
