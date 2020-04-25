@@ -1,7 +1,7 @@
 import React from 'react';
 import LayoutLeft from './Layout-left/LayoutLeft';
 import LayoutRight from './Layout-right/LayoutRight';
-import Pokemon from '../../img/ポートフォリオ_トップ.png' 
+import Pokemon from '../../img/ポートフォリオ_トップ.png' ;
 import './works.css';
 
 
