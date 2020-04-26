@@ -12,7 +12,7 @@ import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
 import Drawer from '@material-ui/core/Drawer';
 import { Link } from "react-router-dom";
-import './Header.css'
+import './Header.css';
 
 const styles = {
   list: {
@@ -60,14 +60,14 @@ class Header extends Component {
               <ListItemText primary="Portfolio" />
             </ListItem>
           </Link>
-          <Link to="/work-guide" class="list-style">
+          <Link to="/work-navi" class="list-style">
             <ListItem button>
               <ListItemText primary="深センNAVI" />
             </ListItem>
           </Link>
           <Link to="/work-spa" class="list-style">
             <ListItem button>
-              <ListItemText primary="制作物紹介サイト(SPA)" />
+              <ListItemText primary="制作物紹介サイト" />
             </ListItem>
           </Link>
         </List>
@@ -103,10 +103,13 @@ class Header extends Component {
                     <Link to="/work-portfolio" style={{ boxShadow: 'none', textDecoration: 'none', color: 'inherit',fontFamily: 'Montserrat, sans-serif', }}>Portfolio</Link>
                   </strong>
                   <strong className="margin">
-                    <Link to="/work-guide" style={{ boxShadow: 'none', textDecoration: 'none', color: 'inherit',fontFamily: 'Montserrat, sans-serif', }}>深センNAVI</Link>
+                    <Link to="/work-navi" style={{ boxShadow: 'none', textDecoration: 'none', color: 'inherit',fontFamily: 'Montserrat, sans-serif', }}>深センNAVI</Link>
                   </strong>
                   <strong className="margin">
-                    <Link to="/work-spa" style={{ boxShadow: 'none', textDecoration: 'none', color: 'inherit',fontFamily: 'Montserrat, sans-serif', }}>制作物紹介サイト(SPA)</Link>
+                    <Link to="/work-spa" style={{ boxShadow: 'none', textDecoration: 'none', color: 'inherit',fontFamily: 'Montserrat, sans-serif', }}>制作物紹介サイト</Link>
+                  </strong>
+                  <strong className="margin">
+                    <a href="https://github.com/tatsuyahirayama" style={{ boxShadow: 'none', textDecoration: 'none', color: 'yellow',fontFamily: 'Montserrat, sans-serif', }}>GitHub</a>
                   </strong>
                 </li>
               </ul>

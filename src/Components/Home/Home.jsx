@@ -4,7 +4,7 @@ import './Home.css';
 import { Link } from "react-router-dom";
 import PortfolioImg from '../../img/portfolio-top.png';
 import ShenzhennaviImg from '../../img/shenzhen-top.png'; 
-import SampleImg from '../../img/flowers-5059174_640.jpg';
+import SpaImg from '../../img/spa-top.png';
 
 
 const Home = () =>{
@@ -12,7 +12,7 @@ const Home = () =>{
         <div>
             <div class="section-title">
                 <h1>WORKS</h1>
-                <p>各ページにて制作物の概要や制作過程などをご紹介しています。
+                <p>各ページにて制作物の概要や実装機能などをご紹介しています。
                 </p>
             </div>
             <div className='container'>
@@ -26,7 +26,7 @@ const Home = () =>{
                 </Link>
                 </div>
                 <div>
-                <Link to="/work-guide" style={{ textDecoration: 'none'}}>
+                <Link to="/work-navi" style={{ textDecoration: 'none'}}>
                 <MediaCard 
                 text="深センNAVI"
                 comment="中国(深セン)出張者や駐在者のための情報交換サービスです。PHPを使って制作しました。"
@@ -39,7 +39,7 @@ const Home = () =>{
                 <MediaCard 
                 text="制作物紹介サイト（当サイト）"
                 comment="現在閲覧頂いているサイトです。Reactを用いてSPAサイトにしました。"
-                img={SampleImg}
+                img={SpaImg}
                 />
                 </Link>
                 </div>
