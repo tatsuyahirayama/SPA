@@ -1,6 +1,5 @@
 import React from 'react';
 import Picture from '../Picture/Picture'
-import PortfolioImg from '../../../img/ポートフォリオ_トップ.png' 
 import '../works.css'
 
 const LayoutLeft = (props) =>{

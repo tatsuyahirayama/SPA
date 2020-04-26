@@ -1,7 +1,7 @@
 import React from 'react';
 import LayoutLeft from './Layout-left/LayoutLeft';
 import LayoutRight from './Layout-right/LayoutRight';
-import Pokemon from '../../img/ポートフォリオ_トップ.png' ;
+import PortfolioImg from '../../img/ポートフォリオ_トップ.png' ;
 import './works.css';
 
 
@@ -11,7 +11,7 @@ const SPA = (props) =>{
         <h1 style={{textAlign:"center"}}>{props.title}</h1>
         <div className='grid-list'>
         <LayoutLeft 
-        picture={Pokemon} 
+        picture={PortfolioImg} 
         link="http//com"
         language="React"
         skill="github"

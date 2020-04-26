@@ -1,8 +1,7 @@
 import React from 'react';
 import LayoutLeft from './Layout-left/LayoutLeft';
 import LayoutRight from './Layout-right/LayoutRight';
-import Shenzhennavimg from '../../img/fox-5042210_640.jpg' ;
-import Pokemon from '../../img/fox-5042210_640.jpg' ;
+import Shenzhennavimg from '../../img/深センNAVI_トップ.png' ;
 import './works.css';
 
 
