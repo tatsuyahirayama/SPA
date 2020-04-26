@@ -2,8 +2,8 @@ import React from 'react';
 import MediaCard from '../Card/card';
 import './Home.css';
 import { Link } from "react-router-dom";
-import PortfolioImg from '../../img/ポートフォリオ_トップ.png';
-import ShenzhennaviImg from '../../img/深センNAVI_トップ.png'; 
+import PortfolioImg from '../../img/portfolio-top.png';
+import ShenzhennaviImg from '../../img/shenzhen-top.png'; 
 import SampleImg from '../../img/flowers-5059174_640.jpg';
 
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import LayoutLeft from './Layout-left/LayoutLeft';
 import LayoutRight from './Layout-right/LayoutRight';
-import Shenzhennavimg from '../../img/深センNAVI_トップ.png' ;
+import Shenzhennavimg from '../../img/shenzhen-top.png' ;
 import './works.css';
 
 

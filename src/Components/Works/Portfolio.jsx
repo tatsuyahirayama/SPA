@@ -1,7 +1,7 @@
 import React from 'react';
 import LayoutLeft from './Layout-left/LayoutLeft';
 import LayoutRight from './Layout-right/LayoutRight';
-import PortfolioImg from '../../img/ポートフォリオ_トップ.png';
+import PortfolioImg from '../../img/portfolio-top.png';
 import './works.css';
 
 
