@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tatsuya-works/static/css/main.001fca0a.chunk.css",
-    "main.js": "/tatsuya-works/static/js/main.6eebb184.chunk.js",
-    "main.js.map": "/tatsuya-works/static/js/main.6eebb184.chunk.js.map",
+    "main.css": "/tatsuya-works/static/css/main.ad362f73.chunk.css",
+    "main.js": "/tatsuya-works/static/js/main.ca8d74a2.chunk.js",
+    "main.js.map": "/tatsuya-works/static/js/main.ca8d74a2.chunk.js.map",
     "runtime-main.js": "/tatsuya-works/static/js/runtime-main.87167622.js",
     "runtime-main.js.map": "/tatsuya-works/static/js/runtime-main.87167622.js.map",
-    "static/js/2.33051319.chunk.js": "/tatsuya-works/static/js/2.33051319.chunk.js",
-    "static/js/2.33051319.chunk.js.map": "/tatsuya-works/static/js/2.33051319.chunk.js.map",
+    "static/js/2.4b2c238e.chunk.js": "/tatsuya-works/static/js/2.4b2c238e.chunk.js",
+    "static/js/2.4b2c238e.chunk.js.map": "/tatsuya-works/static/js/2.4b2c238e.chunk.js.map",
     "index.html": "/tatsuya-works/index.html",
-    "precache-manifest.ba05911554fccab08d136e38e193d9a9.js": "/tatsuya-works/precache-manifest.ba05911554fccab08d136e38e193d9a9.js",
+    "precache-manifest.71b5a1ca91230d258104deb37c844218.js": "/tatsuya-works/precache-manifest.71b5a1ca91230d258104deb37c844218.js",
     "service-worker.js": "/tatsuya-works/service-worker.js",
-    "static/css/main.001fca0a.chunk.css.map": "/tatsuya-works/static/css/main.001fca0a.chunk.css.map",
-    "static/js/2.33051319.chunk.js.LICENSE.txt": "/tatsuya-works/static/js/2.33051319.chunk.js.LICENSE.txt",
-    "static/media/flowers-5059174_640.jpg": "/tatsuya-works/static/media/flowers-5059174_640.b12b1e96.jpg",
+    "static/css/main.ad362f73.chunk.css.map": "/tatsuya-works/static/css/main.ad362f73.chunk.css.map",
+    "static/js/2.4b2c238e.chunk.js.LICENSE.txt": "/tatsuya-works/static/js/2.4b2c238e.chunk.js.LICENSE.txt",
     "static/media/portfolio-top.png": "/tatsuya-works/static/media/portfolio-top.23c9737c.png",
-    "static/media/shenzhen-top.png": "/tatsuya-works/static/media/shenzhen-top.ffecb008.png"
+    "static/media/shenzhen-top.png": "/tatsuya-works/static/media/shenzhen-top.ffecb008.png",
+    "static/media/spa-top.png": "/tatsuya-works/static/media/spa-top.ea998be7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.87167622.js",
-    "static/js/2.33051319.chunk.js",
-    "static/css/main.001fca0a.chunk.css",
-    "static/js/main.6eebb184.chunk.js"
+    "static/js/2.4b2c238e.chunk.js",
+    "static/css/main.ad362f73.chunk.css",
+    "static/js/main.ca8d74a2.chunk.js"
   ]
 }
