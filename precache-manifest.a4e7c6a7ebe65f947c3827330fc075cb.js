@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31b0f9df446f5cb1358ae6823ac9c83b",
+    "revision": "3bc942dc5df3b20049564f814cd2a2a2",
     "url": "/tatsuya-works/index.html"
   },
   {
-    "revision": "430a60a0c94a7f5975c4",
+    "revision": "cf856323305ae80c73e9",
     "url": "/tatsuya-works/static/css/main.ad362f73.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tatsuya-works/static/js/2.4b2c238e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "430a60a0c94a7f5975c4",
-    "url": "/tatsuya-works/static/js/main.ca8d74a2.chunk.js"
+    "revision": "cf856323305ae80c73e9",
+    "url": "/tatsuya-works/static/js/main.a6c27f2f.chunk.js"
   },
   {
     "revision": "697d708a884fcb1a7dad",
